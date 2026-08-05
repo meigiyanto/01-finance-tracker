@@ -1,4 +1,4 @@
-# Finance Tracker
+# Personal Finance Tracker
 
 Finance Tracker adalah aplikasi manajemen keuangan personal yang dirancang untuk membantu pengguna mencatat transaksi, mengelola anggaran, memantau target tabungan, dan melihat performa keuangan secara visual. Aplikasi ini dibangun dengan Next.js dan dirancang agar sederhana, cepat, dan mudah digunakan.
 
